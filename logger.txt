@@ -76,3 +76,11 @@ Method -> POST - Time -> 1779713494809 - URL -> /api/auth/signup
 Method -> POST - Time -> 1779713523873 - URL -> /api/auth/login
 
 Method -> DELETE - Time -> 1779713539846 - URL -> /api/issues/1
+
+Method -> GET - Time -> 1779715714215 - URL -> /
+
+Method -> GET - Time -> 1779715739916 - URL -> /
+
+Method -> GET - Time -> 1779715741210 - URL -> /
+
+Method -> GET - Time -> 1779715742561 - URL -> /
