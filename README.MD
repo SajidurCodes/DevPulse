@@ -1,4 +1,5 @@
-# DevPulse [ Live Link ](https://dev-pulse-swart.vercel.app/)
+# DevPulse 
+### [ Live Link ](https://dev-pulse-swart.vercel.app/)
 
 > Internal Tech Issue & Feature Tracker
 > 
